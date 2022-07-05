@@ -1,0 +1,70 @@
+html {
+    height: 100%;
+}
+
+body {
+    padding-top: 80px;
+    background-color:lightsteelblue;
+    background-image: url(images/musicnote.png)
+}
+
+container
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    text-align: center;
+    color:mediumblue;
+    font-size: 20px;
+    font-style: tahoma;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+main {
+    text-align: center;
+    color:green;  
+    font-size: 20px;  
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 
+    'Lucida Sans', Arial, sans-serif;
+}
+
+header {
+    text-decoration: underline;
+    color:green;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 35px;
+}
+
+nav {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:green;
+    height: 30px;
+    padding-top: 5px;
+    text-align: center;
+}
+
+footer {
+    color:green;
+    text-align: center;
+    height: 50px;
+    padding-top: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+nav a {
+    color:darkblue;
+        padding-left: 5px;
+        padding-right: 10px;
+}
+
+img {
+    height: 300px;
+    padding-top: 8px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
